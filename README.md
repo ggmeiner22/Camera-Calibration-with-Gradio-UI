@@ -22,11 +22,6 @@ Dependencies include: `opencv-python`, `numpy`, `gradio`, `plotly`, `pillow`, `p
 
 ## Usage
 
-### Run locally
-```bash
-python app.py
-```
-
 Gradio will show a local link (e.g. `http://127.0.0.1:7860`). Open it in your browser.
 
 ### In notebooks (Colab/Jupyter)
