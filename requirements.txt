@@ -1,0 +1,6 @@
+opencv-python
+numpy
+gradio
+plotly
+pytransform3d
+Pillow
