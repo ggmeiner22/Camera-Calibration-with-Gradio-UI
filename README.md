@@ -21,4 +21,5 @@
 - **Board**: chessboard object model.
 - **Overlay**: draw axes overlays.
 - **IO**: directory and file helpers.
+- **Helper Functions**: These functions help save images with axes and before/after distortion.
 
